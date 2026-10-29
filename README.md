@@ -17,8 +17,8 @@
 |  8 | 25-09-2026  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08](https://drive.google.com/file/d/1_pLz7qEapnEPamAcQoHFbNORVvtVE4mp/view?usp=drive_link) | [Program](https://github.com/khair-cyber/mobile-programming-practicum/tree/master/pertemuan8) |
 |  9 | 02-10-2026  | 05  | StatefulWidget  | [Modul 09](https://drive.google.com/file/d/1WT02WA7TEfLRI1Jv0Mkt0JGfNQbymYR3/view?usp=drive_link) | [Program](https://github.com/khair-cyber/mobile-programming-practicum/tree/master/pertemuan9) |
 |  10 | 09-10-2026  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://drive.google.com/file/d/1HlMkWdXrctw9g0qFr-OJNomVKSfMYxMm/view?usp=drive_link) | [Program](https://github.com/khair-cyber/mobile-programming-practicum/tree/master/pertemuan10/game_app) |
-|  11 | 00-00-2026  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/1J0IxgTfkkwj5chKP6VjDiEHQByY2O4KP/view?usp=drive_link) | [Program](https://github.com/khair-cyber/mobile-programming-practicum/tree/master/pertemuan11/tasbih_getx) |
-|  11 | 00-00-2026  | 08  | Ujian Tengah Seemester  | [Laporan UTS](https://drive.google.com/file/d/1Z0wHIVQS-pacd8bsK2tFEegWYWbtWfah/view?usp=drive_link) | [Program](https://github.com/khair-cyber/NusaResep.git) |
+|  11 | 16-10-2026  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/1J0IxgTfkkwj5chKP6VjDiEHQByY2O4KP/view?usp=drive_link) | [Program](https://github.com/khair-cyber/mobile-programming-practicum/tree/master/pertemuan11/tasbih_getx) |
+|  11 | 23-10-2026  | 08  | Ujian Tengah Seemester  | [Laporan UTS](https://drive.google.com/file/d/1Z0wHIVQS-pacd8bsK2tFEegWYWbtWfah/view?usp=drive_link) | [Program](https://github.com/khair-cyber/NusaResep.git) |
 |  12 | 00-00-2026  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12]() | [Program]() |
 |  13 | 00-00-2026  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13]() | [Program]() |
 |  14 | 00-00-2026  | 11  | Ujian Akhir Semester  | [Modul 13]() | [Program]() |
