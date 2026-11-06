@@ -19,6 +19,6 @@
 |  10 | 09-10-2026  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://drive.google.com/file/d/1HlMkWdXrctw9g0qFr-OJNomVKSfMYxMm/view?usp=drive_link) | [Program](https://github.com/code-khair/mobile-programming-practicum/tree/master/modul10/game_app) |
 |  11 | 16-10-2026  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/1J0IxgTfkkwj5chKP6VjDiEHQByY2O4KP/view?usp=drive_link) | [Program](https://github.com/code-khair/mobile-programming-practicum/tree/master/modul11/tasbih_getx) |
 |  11 | 23-10-2026  | 08  | Ujian Tengah Seemester  | [Laporan UTS](https://drive.google.com/file/d/1Z0wHIVQS-pacd8bsK2tFEegWYWbtWfah/view?usp=drive_link) | [Program](https://github.com/khair-cyber/NusaResep.git) |
-|  12 | 00-00-2026  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12]() | [Program]() |
-|  13 | 00-00-2026  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13]() | [Program]() |
+|  12 | 30-10-2026  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12](https://drive.google.com/file/d/1cWzes5_h6xK8A7869dQr_T8KDTVNzs4i/view?usp=drive_link) | [Program](https://github.com/code-khair/mobile-programming-practicum/tree/master/Modul%2012/lokasi_flutter) |
+|  13 | 00-00-2026  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13]() | [Program](https://github.com/code-khair/mobile-programming-practicum/tree/master/Modul%2013/flutter_crud_api) |
 |  14 | 00-00-2026  | 11  | Ujian Akhir Semester  | [Modul 13]() | [Program]() |
